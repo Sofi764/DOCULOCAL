@@ -1,0 +1,214 @@
+[
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DocuLocal.Backend.Controllers.AuthController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.AuthController",
+    "Method": "Registrar",
+    "RelativePath": "api/Auth/registro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DocuLocal.Backend.Controllers.AuthController\u002BRegistroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.DocumentosController",
+    "Method": "Listar",
+    "RelativePath": "api/Documentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "buscar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "tipoSoporte",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.DocumentosController",
+    "Method": "Crear",
+    "RelativePath": "api/Documentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoriaDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaDocumento",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoSoporte",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UbicacionFisica",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ArchivoDigital",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.DocumentosController",
+    "Method": "Editar",
+    "RelativePath": "api/Documentos/{idDocumento}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDocumento",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "IdUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoriaDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaDocumento",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoSoporte",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UbicacionFisica",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ArchivoDigital",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.DocumentosController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Documentos/{idDocumento}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDocumento",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocuLocal.Backend.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DocuLocal.Backend.WeatherForecast, DocuLocal.Backend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

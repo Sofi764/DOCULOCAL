@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\doculocal.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\doculocal.backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\doculocal.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\doculocal.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|c:\\proyectos\\doculocal\\doculocal.backend\\doculocal.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1F9E7C4-989E-4E09-B9DC-AD0A381F8C5D}|DocuLocal.Backend\\DocuLocal.Backend.csproj|solutionrelative:doculocal.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocuLocal.Backend.http",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\DocuLocal.Backend.http",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\DocuLocal.Backend.http",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\DocuLocal.Backend.http",
+              "RelativeToolTip": "DocuLocal.Backend\\DocuLocal.Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-19T08:37:04.88Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Controllers\\DocumentosController.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Controllers\\DocumentosController.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Controllers\\DocumentosController.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Controllers\\DocumentosController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAUwAkBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:28:39.852Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Program.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:24:38.532Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:20:04.401Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Data\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Data\\DbHelper.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Data\\DbHelper.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Data\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:15:13.876Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Models\\Documento.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Models\\Documento.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Models\\Documento.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Models\\Documento.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:10:13.219Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\Models\\Usuario.cs",
+              "RelativeToolTip": "DocuLocal.Backend\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T08:09:15.086Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocuLocal.Backend",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\DocuLocal.Backend.csproj",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\DocuLocal.Backend.csproj",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\DocuLocal.Backend.csproj",
+              "RelativeToolTip": "DocuLocal.Backend\\DocuLocal.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T08:03:51.31Z",
+              "EditorCaption": "",
+              "OwnerCaption": "DocuLocal.Backend"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "DocuLocal.Backend\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\DocuLocal\\DocuLocal.Backend\\DocuLocal.Backend\\appsettings.json",
+              "RelativeToolTip": "DocuLocal.Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-19T07:29:44.7Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
